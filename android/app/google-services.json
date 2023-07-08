@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111313636154",
+    "project_id": "onah-s-project",
+    "storage_bucket": "onah-s-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111313636154:android:4edb4fa4454dc4e4eb1e03",
+        "android_client_info": {
+          "package_name": "com.example.onah_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111313636154-ni1v566kenqm0qi09rqqn6kr2mutmbo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2VHRhc10yEMEheTQtrrUb-VrsHicq7Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111313636154-ni1v566kenqm0qi09rqqn6kr2mutmbo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
